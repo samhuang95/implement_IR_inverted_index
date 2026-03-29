@@ -33,4 +33,9 @@ python -m pyserini.index.lucene \
  - compare_search.py
  可以比較反向索引與暴力法在查詢上的速度差
 
+## 成果截圖
+- 查詢結果
+<img width="1293" height="421" alt="查詢結果" src="https://github.com/user-attachments/assets/ad0e8260-51e1-44d1-b4b0-6913d9008170" />
+- 比較結果
+<img width="1293" height="357" alt="比較結果" src="https://github.com/user-attachments/assets/5abefab9-d798-4d7e-8316-146343e64de4" />
 
