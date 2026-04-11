@@ -38,7 +38,9 @@ python -m pyserini.index.lucene \
 
 ## 成果截圖
 - 查詢結果
-<img width="1293" height="421" alt="查詢結果" src="https://github.com/user-attachments/assets/ad0e8260-51e1-44d1-b4b0-6913d9008170" />
+<img width="925" height="544" alt="螢幕擷取畫面 2026-04-12 022204" src="https://github.com/user-attachments/assets/43585644-189e-4b1c-a9b2-774f1b09e33d" />
+
 - 比較結果
-<img width="1293" height="357" alt="比較結果" src="https://github.com/user-attachments/assets/5abefab9-d798-4d7e-8316-146343e64de4" />
+<img width="925" height="311" alt="螢幕擷取畫面 2026-04-12 022914" src="https://github.com/user-attachments/assets/2bb31d13-9ff7-48d5-a345-747eed62317d" />
+
 
